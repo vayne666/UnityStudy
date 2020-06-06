@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3305546359
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiab
+      Dependencies:
+        Dependency_0: sp
+    Info_1:
+      Name: sp
+      Dependencies: {}
