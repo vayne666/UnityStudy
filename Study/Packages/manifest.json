@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.2d.animation": "3.2.3",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.assetbundlebrowser": "1.7.0",
     "com.unity.collab-proxy": "1.2.16",
@@ -8,6 +9,7 @@
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.0",
     "com.unity.messenger": "1.0.9-preview",
+    "com.unity.shadergraph": "7.3.1",
     "com.unity.test-framework": "1.1.14",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.14",

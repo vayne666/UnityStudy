@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1469514809
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiab
+      Dependencies:
+        Dependency_0: sp
+    Info_1:
+      Name: sp
+      Dependencies: {}
+    Info_2:
+      Name: rikrrage
+      Dependencies: {}
+    Info_3:
+      Name: rikrpoison
+      Dependencies: {}
