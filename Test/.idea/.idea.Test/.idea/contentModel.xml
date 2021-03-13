@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Test.2064031310.00" t="ExcludeRecursive" />
+    <e p="G:\Code\github\UnityTest\Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ButtonTest" t="Include">
+          <e p="ButtonTest.cs" t="Include" />
+          <e p="UIPolygon.cs" t="Include" />
+        </e>
+        <e p="SafeArea" t="Include">
+          <e p="SafeAreaTest.cs" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="2D Animation" t="Include">
+            <e p="3.2.3" t="Include">
+              <e p="Samples" t="Include">
+                <e p="5 SpriteSwap" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="BuildAssetBundle.cs" t="Include" />
+                      <e p="Unity.2D.Animation.Samples.Editor.asmdef" t="Include" />
+                    </e>
+                    <e p="Runtime" t="Include">
+                      <e p="LoadSwapDLC.cs" t="Include" />
+                      <e p="SwapFullSkin.cs" t="Include" />
+                      <e p="SwapPart.cs" t="Include" />
+                      <e p="Unity.2D.Animation.Samples.Runtime.asmdef" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="AnimationSampleDependency.cs" t="Include" />
+                  <e p="Unity.2D.Animation.Samples.Dependency.asmdef" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Test.cs" t="Include" />
+        </e>
+        <e p="ScrollView" t="Include">
+          <e p="ScrollViewTest.cs" t="Include" />
+          <e p="UIWarpContent.cs" t="Include" />
+          <e p="UIWarpContentItem.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test.sln" t="IncludeFlat" />
+      <e p="Unity.2D.Animation.Samples.Dependency.csproj" t="IncludeRecursive" />
+      <e p="Unity.2D.Animation.Samples.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.2D.Animation.Samples.Runtime.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

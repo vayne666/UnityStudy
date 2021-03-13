@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1240176017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30e99a2f7715c831a89575b382e8cfe9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpriteAtlasAB/Textures/Incircle.png
+- Assets/SpriteAtlasAB/Textures/Guildbotton.png
+- Assets/SpriteAtlasAB/SpriteAtlas/TestSpriteAtlas.spriteatlas
+- Assets/SpriteAtlasAB/Textures/Coin.png
+Dependencies: []
